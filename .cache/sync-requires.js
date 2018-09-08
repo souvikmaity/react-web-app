@@ -10,7 +10,8 @@ exports.components = {
   "component---cache-dev-404-page-js": preferDefault(require("/Users/souvik/react-sites/first-app/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/souvik/react-sites/first-app/src/pages/404.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/souvik/react-sites/first-app/src/pages/index.js")),
-  "component---src-pages-page-2-js": preferDefault(require("/Users/souvik/react-sites/first-app/src/pages/page-2.js"))
+  "component---src-pages-page-2-js": preferDefault(require("/Users/souvik/react-sites/first-app/src/pages/page-2.js")),
+  "component---src-pages-about-js": preferDefault(require("/Users/souvik/react-sites/first-app/src/pages/about.js"))
 }
 
 exports.json = {
@@ -19,5 +20,6 @@ exports.json = {
   "404.json": require("/Users/souvik/react-sites/first-app/.cache/json/404.json"),
   "index.json": require("/Users/souvik/react-sites/first-app/.cache/json/index.json"),
   "page-2.json": require("/Users/souvik/react-sites/first-app/.cache/json/page-2.json"),
-  "404-html.json": require("/Users/souvik/react-sites/first-app/.cache/json/404-html.json")
+  "404-html.json": require("/Users/souvik/react-sites/first-app/.cache/json/404-html.json"),
+  "about.json": require("/Users/souvik/react-sites/first-app/.cache/json/about.json")
 }
